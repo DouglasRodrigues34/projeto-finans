@@ -33,6 +33,7 @@ Projeto de um site de finanças usando Bootstrap.
 <img align="center" alt="Douglas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="center" alt="Douglas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />          
 <img align="center" alt="Douglas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img align="center" alt="Douglas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />        
 </div>        
 
 # Autor
