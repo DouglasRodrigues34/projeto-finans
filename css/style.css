@@ -3,3 +3,14 @@
     background: #ffc107;
     color: white;
 }
+
+/* Section Know More and Resources */
+.caixa {
+    padding: 60px 0px;
+    border-bottom: 1px solid #a09191;
+}
+
+/* Footer */
+footer p a {
+    margin: 5px 15px;
+}
