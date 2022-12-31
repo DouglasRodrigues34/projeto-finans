@@ -26,3 +26,17 @@ Projeto de um site de finanças usando Bootstrap.
 ## Layout smartphone
 ![smartphones-1](https://user-images.githubusercontent.com/110262864/210150771-34aa6f34-82e4-408d-a6ff-c8d3bb03f77e.png)
 #
+
+# Tecnologias utilizadas
+## Front-end
+<div style="display: inline_block"><br>
+<img align="center" alt="Douglas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img align="center" alt="Douglas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />          
+<img align="center" alt="Douglas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+</div>        
+
+# Autor
+
+Douglas Luiz de Oliveira Rodrigues
+
+https://www.linkedin.com/in/douglas-luiz-de-oliveira-rodrigues-1b2994240/
