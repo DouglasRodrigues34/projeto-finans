@@ -2,15 +2,16 @@
 #home {
     background: #ffc107;
     color: white;
+    padding-top: 5rem;
 }
 
 /* Section Know More and Resources */
 .caixa {
-    padding: 60px 0px;
-    border-bottom: 1px solid #a09191;
+    padding: 6rem 0;
+    border-bottom: 0.1rem solid #a09191;
 }
 
 /* Footer */
 footer p a {
-    margin: 5px 15px;
+    margin: 0.5rem 1.5rem;
 }
